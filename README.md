@@ -1,4 +1,4 @@
-I research music theory and I make it easier to digest. 
+I research the structure of music and I make it easier to digest. I care about notes (pitches) way more than I care about rhythms or timbres.
 
 I have two main projects now:
 
