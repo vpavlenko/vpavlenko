@@ -22,4 +22,4 @@ Right now I do lectures [in Tbilisi](https://t.me/f0rthsp4ce), in Russian. I rec
 
 I'm an independent researcher and I do research in open source for non-commercial purposes. I'm open to PhD.
 
-I'm open to mentoring computer science students who seek to do projects on the structure of music.
+I also mentor computer science students who seek to do projects on the structure of music.
