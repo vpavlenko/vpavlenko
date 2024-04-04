@@ -1,5 +1,19 @@
-I study and visualize music theory. I make an interactive course on Western music theory: https://rawl.rocks/. Sometimes I record [lectures in Russian](https://t.me/keetezh/1055). I may have ideas to explore, DM to do research together
+I research music theory and make it easier to digest. 
 
-I explain what I do here: https://twitter.com/vitalypavlenko/status/1771820942680830417
+I have two main projects now:
 
-I'm happy to give an intensive course on visual approach to the structure of Western music at your hackerspace, for free, if you're in a visa-free country :)
+# Rawl
+
+Rawl adds colors to any music notation to make you see harmonic patterns faster. Demo: https://rawl.rocks/, statement: https://twitter.com/vitalypavlenko/status/1771820942680830417 
+
+In Rawl I also try to reuse a huge collection of MIDI files available in the internet to show the real structure of Western harmony and arrangement, at scale.
+
+If Rawl inspires you in any way, please contact me.
+
+# Rokk
+
+Rokk crunches corpora of chords to make harmonic and formal variety of music navigable. I want to make a layer of navigation on top of Ultimate-Guitar.com chords, jazz lead sheets, probably also [ChoCo](https://github.com/smashub/choco) and Hooktheory. I want to show most popular chord sequences by genre and find a visual way to show differences between styles of different composers.
+
+# Lectures
+
+Right now I do lectures [in Tbilisi](https://t.me/f0rthsp4ce), in Russian. I record [some of them](https://t.me/keetezh/1055). I'd love to collaborate with designers of educational content – YouTube and TikTok creators – who wish to spread the joy of seeing structure in music. I can maybe give classes on the structure of music in your city.
