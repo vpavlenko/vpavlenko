@@ -1,4 +1,4 @@
-I research music theory and make it easier to digest. 
+I research music theory and I make it easier to digest. 
 
 I have two main projects now:
 
