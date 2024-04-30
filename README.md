@@ -20,7 +20,7 @@ Rokk crunches corpora of chords to make harmonic and formal variety of music nav
 
 # Lectures
 
-I record [some lectures in Russian](https://t.me/keetezh/1055). I'd love to collaborate with designers of educational content – YouTube and TikTok creators – who wish to spread the joy of seeing structure in music. I can maybe give classes on the structure of music in your city in the UK.
+I've recorded [some lectures in Russian](https://t.me/keetezh/1055). I'd love to collaborate with designers of educational content – YouTube and TikTok creators – who wish to spread the joy of seeing structure in music. I can maybe give classes on the structure of music in your city in the UK.
 
 # Academia
 
