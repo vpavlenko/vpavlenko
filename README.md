@@ -4,7 +4,7 @@ I have two main projects now:
 
 # Rawl
 
-Rawl adds colors to any music notation to make you see harmonic patterns faster. Demo: https://rawl.rocks/, statement: https://twitter.com/vitalypavlenko/status/1771820942680830417 
+Rawl adds colors to any music notation to make you see harmonic patterns faster. Demo: https://rawl.rocks/
 
 In Rawl I also try to reuse a huge collection of MIDI files available in the internet to show the real structure of Western harmony and arrangement, at scale.
 
