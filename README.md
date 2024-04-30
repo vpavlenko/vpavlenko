@@ -10,6 +10,10 @@ In Rawl I also try to reuse a huge collection of MIDI files available in the int
 
 If Rawl inspires you in any way, please contact me.
 
+Abandoned demos:
+- https://vpavlenko.github.io/chiptheory/
+- https://vpavlenko.github.io/12/
+
 # Rokk
 
 Rokk crunches corpora of chords to make harmonic and formal variety of music navigable. I want to make a layer of navigation on top of Ultimate-Guitar.com chords, jazz lead sheets, probably also [ChoCo](https://github.com/smashub/choco) and Hooktheory. I want to show most popular chord sequences by genre and find a visual way to show differences between styles of different composers.
