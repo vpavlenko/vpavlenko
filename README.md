@@ -4,9 +4,7 @@ I have two main projects in my head:
 
 # Rawl
 
-[rawl.rocks](https://rawl.rocks/) colorizes any music notation so that you see chords faster
-
-In Rawl I also try to reuse a huge collection of MIDI files available in the internet to show the real structure of Western harmony and arrangement, at scale.
+[rawl.rocks](https://rawl.rocks/) colorizes any music notation so that you see chords faster. I reuse a huge collection of MIDI files available in the internet to show the real structure of Western harmony and arrangement, at scale.
 
 I firmly believe that the best way to study the anatomy of music is by reading and analyzing tons of scores of pieces you care about. Fortunately, many scores are digitized, allowing us to create more visually ergonomic tools for this task, surpassing the clumsiness of standard notation. These tools can enhance the reading experience, making it easier to quickly identify various patterns, including harmonic, voice-leading, textural, and formal elements.
 
