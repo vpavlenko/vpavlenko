@@ -20,6 +20,8 @@ Abandoned demos:
 
 Rokk crunches corpora of chords to make harmonic and formal variety of music navigable. I want to make a layer of navigation on top of Ultimate-Guitar.com chords, jazz lead sheets, probably also [ChoCo](https://github.com/smashub/choco) and Hooktheory. I want to show most popular chord sequences by genre and find a visual way to show differences between styles of different composers.
 
+It's currently on hold for me, but Pavel Zhur makes wonderful advancements on his https://p.harmonydb.com/
+
 # Lectures
 
 I've recorded [some lectures in Russian](https://t.me/keetezh/1055). I'd love to collaborate with designers of educational content – YouTube and TikTok creators – who wish to spread the joy of seeing structure in music. I can maybe give classes on the structure of music in your city in the UK.
