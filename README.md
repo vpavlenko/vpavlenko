@@ -4,7 +4,7 @@ I have two main projects in my head:
 
 # Rawl
 
-Rawl colorizes any music notation so that you see chords faster. Demo: https://rawl.rocks/
+[rawl.rocks](https://rawl.rocks/) colorizes any music notation so that you see chords faster
 
 In Rawl I also try to reuse a huge collection of MIDI files available in the internet to show the real structure of Western harmony and arrangement, at scale.
 
