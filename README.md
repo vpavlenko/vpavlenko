@@ -1,6 +1,6 @@
 I study the structure of music and I make it easier to digest. I care about the order of notes (pitches). Right now I don't care about rhythms or timbres.
 
-I have two main projects now:
+I have two main projects in my head:
 
 # Rawl
 
