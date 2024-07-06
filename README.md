@@ -1,4 +1,4 @@
-I research the structure of music and I make it easier to digest. I care about notes (pitches). Right now I don't care about rhythms or timbres (sounds, synths, fx).
+I study the structure of music and I make it easier to digest. I care about notes (pitches). Right now I don't care about rhythms or timbres (sounds, synths, fx).
 
 I have two main projects now:
 
@@ -9,6 +9,8 @@ Rawl colorizes any music notation so that you see chords faster. Demo: https://r
 In Rawl I also try to reuse a huge collection of MIDI files available in the internet to show the real structure of Western harmony and arrangement, at scale.
 
 If Rawl inspires you in any way, please contact me.
+
+My current plan is to make at an interactive introduction textbook to harmony, somewhat like a sequel to https://book-one.hooktheory.com/
 
 Abandoned demos:
 - https://vpavlenko.github.io/chiptheory/
