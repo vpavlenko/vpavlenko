@@ -8,7 +8,7 @@ Rawl colorizes any music notation so that you see chords faster. Demo: https://r
 
 In Rawl I also try to reuse a huge collection of MIDI files available in the internet to show the real structure of Western harmony and arrangement, at scale.
 
-My deep belief is that the best way to study the anatomy of music is by reading through a lot of scores of music that you care about. Luckily, a lot of music is digitized, and so we can build more visually ergonomic tools so that this reading will be optimized for rapidly extracting patterns of all sorts (harmonic, voice-leading, textural, formal).
+I firmly believe that the best way to study the anatomy of music is by reading numerous scores of pieces you care about. Fortunately, many scores are digitized, allowing us to create more visually ergonomic tools. These tools can enhance the reading experience, making it easier to quickly identify various patterns, including harmonic, voice-leading, textural, and formal elements.
 
 My current plan is to make at an interactive introduction textbook to harmony, somewhat like a sequel to https://book-one.hooktheory.com/
 
