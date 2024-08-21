@@ -7,7 +7,7 @@ I firmly believe that the best way to study the anatomy of music is by reading a
 
 My current plan is to make at an interactive introduction textbook to harmony of different composers and styles, somewhat like a sequel to https://book-one.hooktheory.com/
 
-I eagerly need to show my current state to people, along the way, so please reach out to get an overview of my current work via 1-to-1 Zoom.
+I eagerly need to show my current state of work to people, along the way, so please reach out to get an overview of my current work via 1-to-1 Zoom.
 
 Abandoned demos:
 - https://vpavlenko.github.io/chiptheory/
