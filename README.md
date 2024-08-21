@@ -1,11 +1,13 @@
 I study the structure of music and I make it easier to digest. I care about the order of notes (pitches). Right now I don't care about rhythms or timbres.
 
 My main project is 
-[rawl.rocks](https://rawl.rocks/) where I employ colored music notation so that you see chords faster. I reuse a huge collection of MIDI files available in the internet to show the real structure of Western harmony and arrangement, at scale.
+[rawl.rocks](https://rawl.rocks/) where I employ colored music notation so that you see chords faster. I reuse a huge collection of MIDI files available in the internet (hehe) to show the real structure of Western harmony and arrangement, zoomed into styles and composers.
 
-I firmly believe that the best way to study the anatomy of music is by reading and analyzing tons of scores of pieces you care about. Fortunately, many scores are digitized, allowing us to create more visually ergonomic tools for this task, surpassing the clumsiness of standard notation. These tools can enhance the reading experience, making it easier to quickly identify various patterns, including harmonic, voice-leading, textural, and formal elements.
+I firmly believe that the best way to study the anatomy of music is by reading and analyzing tons of scores of pieces you care about. Fortunately, many scores are digitized, allowing us to create more visually ergonomic tools for this task, surpassing the clumsiness of standard notation. These tools can enhance the reading experience, making it easier to quickly identify various patterns, including harmonic, voice-leading, textural and formal elements.
 
-My current plan is to make at an interactive introduction textbook to harmony, somewhat like a sequel to https://book-one.hooktheory.com/
+My current plan is to make at an interactive introduction textbook to harmony of different composers and styles, somewhat like a sequel to https://book-one.hooktheory.com/
+
+I eagerly need to show my current state to people, along the way, so please reach out to get an overview of my current work via 1-to-1 Zoom.
 
 Abandoned demos:
 - https://vpavlenko.github.io/chiptheory/
