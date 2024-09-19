@@ -13,6 +13,10 @@ Abandoned demos:
 - https://vpavlenko.github.io/chiptheory/
 - https://vpavlenko.github.io/12/
 
+### Teaching
+
+I run a free 1-to-1 online course on analysis of structures in Western music via [problems](https://docs.google.com/document/d/1-ip7PlsunbUFnS8ForfFzP9eOFl_fx4g0TxVvMsYZHA/edit) - in Russian or English. DM to start.
+
 ### Lectures
 
 I've recorded [some lectures in Russian](https://t.me/keetezh/1055). I'd love to collaborate with designers of educational content – YouTube and TikTok creators – who wish to spread the joy of seeing structure in music. I can maybe give classes on the structure of music in your city in the UK or anywhere else - for free, if you can summon a stable nerdy audience.
