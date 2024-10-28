@@ -1,5 +1,7 @@
 I study the structure of music and I make it easier to digest. I care about the order of notes (pitches). Right now I don't care about rhythms or timbres.
 
+In a more broader sense, I'm an educator with a lot of experience teaching various aspects of programming. And, separately, I enjoy complex hierarchical evolutionary systems like human languages or music (maybe, that's a complete list).
+
 My main project is 
 [rawl.rocks](https://rawl.rocks/) where I employ colored music notation so that you see chords faster. I reuse a huge collection of MIDI files available in the internet (hehe) to show the real structure of Western harmony and arrangement, zoomed into styles and composers.
 
