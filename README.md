@@ -30,6 +30,6 @@ I've recorded [some lectures in Russian](https://t.me/keetezh/1055). I'd love to
 
 ### Peers
 
-I'm an independent researcher and I do open source research for non-commercial purposes.
+I'm an independent researcher and I do open source research for non-commercial purposes. As soon as I can't afford a Full English at a local coffee shop anymore, I'll add more ad banners into all my demos.
 
 I gladly mentor computer science students who seek to do projects on the structure of music. Although my projects are really about music, not about technologies. Message me if you need a project to work on, although don't expect anything trendy or easy: https://github.com/vpavlenko/study-music/tree/main/research
