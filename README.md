@@ -18,6 +18,8 @@ Abandoned demos:
 
 Everything I do I do for Chrome desktop only.
 
+Insitutionally, I consider myself doing a PhD in the pedagogy of music theory. However, I'm not affiliated with any instituion 💀🤡
+
 ### Teaching
 
 I run a free 1-to-1 online course on analysis of structures in Western music via [problems](https://docs.google.com/document/d/1-ip7PlsunbUFnS8ForfFzP9eOFl_fx4g0TxVvMsYZHA/edit) - in Russian or English. DM to start.
