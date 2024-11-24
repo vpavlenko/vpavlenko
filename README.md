@@ -18,7 +18,7 @@ Abandoned demos:
 
 Everything I do I do for Chrome desktop only.
 
-Insitutionally, I consider myself doing a PhD in the pedagogy of music theory. However, I'm not affiliated with any institution 💀🤡. I hate bureaucratical systems, hierarchies and miserable people struggling in capitalism
+Insitutionally, I consider myself doing a PhD in the pedagogy of music theory. However, I'm not affiliated with any institution 💀🤡. I hate bureaucratical systems, hierarchies and miserable people struggling in capitalism.
 
 ### Teaching
 
