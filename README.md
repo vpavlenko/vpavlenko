@@ -14,6 +14,9 @@ I eagerly need to show my current state of work to people, so let's jump into a 
 Abandoned demos:
 - https://vpavlenko.github.io/chiptheory/
 - https://vpavlenko.github.io/12/
+- https://vpavlenko.github.io/p/ and https://vpavlenko.github.io/p2/ (the last one won't work because of Audio Context protection)
+
+Everything I do I do for Chrome desktop only.
 
 ### Teaching
 
