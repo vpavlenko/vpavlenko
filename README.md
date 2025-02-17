@@ -3,7 +3,7 @@ I study the structure of music and I make it easier to digest. I care about the 
 In a broader sense, I'm an educator with a lot of experience teaching various aspects of programming. I've created https://snakify.org/ and https://pythontutor.ru/, which is how I make my living. And, separately, I enjoy studying complex hierarchical evolutionary systems like human languages or music (possibly that's a complete list).
 
 My main project is 
-[rawl.rocks](https://rawl.rocks/) where I employ colored music notation so that you see chords faster. I reuse a huge collection of MIDI files available in the internet (hehe) to show the real structure of Western harmony and arrangement, zoomed into styles and composers.
+[rawl.rocks](https://rawl.rocks/) where I employ colored music notation so that you see chords faster. I reuse a huge collection of MIDI files available in the internet (mainly from MuseScore.com) to show the real structure of Western harmony and arrangement, zoomed into styles and composers.
 
 I firmly believe that the best way to study the anatomy of music is by reading and analyzing tons of scores of pieces you care about. Fortunately, many scores are digitized, allowing us to create more visually ergonomic tools for this task, surpassing the clumsiness of standard notation. These tools can enhance the reading experience, making it easier to quickly identify various patterns, including harmonic, voice-leading, textural and formal elements.
 
