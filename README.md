@@ -7,7 +7,7 @@ My main project is
 
 I firmly believe that the best way to study the anatomy of music is by reading and analyzing tons of scores of pieces you care about. Fortunately, many scores are digitized, allowing us to create more visually ergonomic tools for this task, surpassing the clumsiness of standard notation. These tools can enhance the reading experience, making it easier to quickly identify various patterns, including harmonic, voice-leading, textural and formal elements.
 
-I make an interactive introduction textbook to harmony of different composers and styles, somewhat like a sequel to https://book-one.hooktheory.com/. My first book is on harmony in [Musescore Top 100](https://rawl.rocks/). I already run a free 1-to-1 online course on analysis of structures in Western music using this list - in Russian or English. DM to start.
+I make an interactive introduction textbook to harmony of different composers and styles, somewhat like a sequel to https://book-one.hooktheory.com/. My first narrative is on harmony in [Musescore Top 100](https://rawl.rocks/). I already run a free 1-to-1 online course on analysis of structures in Western music using this list - in Russian or English. DM to start.
 
 I eagerly need to show my current state of work to people, so let's jump into a screen-sharing call.
 
