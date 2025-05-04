@@ -1,4 +1,4 @@
-I study the structure of music and I make it easier to digest. I care about the order of notes (pitches). Right now I don't care about rhythms or timbres.
+I study the structure of music and I make it easier to digest. I care about the order of notes (pitches). I don't care about rhythms or timbres.
 
 In a broader sense, I'm an educator with a lot of experience teaching various aspects of programming. I've created https://snakify.org/ and https://pythontutor.ru/, which is how I make my living. And, separately, I enjoy studying complex hierarchical evolutionary systems like human languages or music (possibly that's a complete list).
 
