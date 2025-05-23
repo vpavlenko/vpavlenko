@@ -19,7 +19,7 @@ Abandoned demos:
 
 Everything I do I test on Chrome desktop (Mac OS). I'll happily accept pull requests fixing the UI glitches on other setups.
 
-Insitutionally, I consider myself doing a PhD in the pedagogy of music theory. However, I'm not affiliated with any institution 💀🤡. I hate bureaucratical systems, hierarchies and the human struggle inside capitalism.
+Insitutionally, I consider myself doing a PhD in the pedagogy of music theory. However, I'm not affiliated with any institution 💀🤡. I hate bureaucratical systems, hierarchies and the human struggle inside capitalism. Also, I love cultural anthropology.
 
 
 
