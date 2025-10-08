@@ -36,3 +36,4 @@ I might mentor computer science students who seek to do projects on the structur
 ### Computer Science at KS3
 
 - https://t-eight-pearl.vercel.app/
+- https://chessnawk.vercel.app/
