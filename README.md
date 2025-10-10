@@ -17,7 +17,7 @@ Abandoned demos:
 - https://vpavlenko.github.io/j/
 - https://vpavlenko.github.io/p/ and https://vpavlenko.github.io/p2/ (the last one won't work because of Audio Context protection)
 
-Everything I do I test on Chrome desktop (Mac OS). I'll happily accept pull requests fixing the UI glitches on other setups.
+Everything I do I test on Chrome desktop (Mac OS) in light mode. I'll happily accept pull requests fixing the UI glitches on other setups.
 
 Insitutionally, I consider myself doing a PhD in the pedagogy of music theory. However, I'm not affiliated with any institution 💀🤡. I hate bureaucratical systems, hierarchies and the human struggle inside capitalism. Also, I love cultural anthropology.
 
