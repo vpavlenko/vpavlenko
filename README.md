@@ -37,6 +37,6 @@ I might mentor computer science students who seek to do projects on the structur
 
 In 2025..26 I work as a middle school teacher of CS. I design games for my students:
 
-- https://t-eight-pearl.vercel.app/
-- https://tonematrix.vercel.app/
 - https://chessnawk.vercel.app/
+- https://tonematrix.vercel.app/
+
