@@ -40,3 +40,6 @@ In 2025..26 I work as a middle school teacher of CS. I design games for my stude
 - https://chessnawk.vercel.app/
 - https://tonematrix.vercel.app/
 
+### Other stuff
+
+- https://github.com/vpavlenko/bulls-and-cows
