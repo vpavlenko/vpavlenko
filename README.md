@@ -1,3 +1,11 @@
+### Computer Science at KS3
+
+In 2025..26 I work as a middle school teacher of CS. I design tasks for my students:
+
+- https://chessnawk.vercel.app/
+
+### Music theory
+
 I study the structure of music and I make it easier to digest. I care about the order of notes (pitches) in compositions. I wonder which structures are there, and how correlations of those structures define styles. I don't care about rhythms or timbres/sound.
 
 In a broader sense, I'm an educator with a lot of experience teaching various aspects of programming. I've created https://snakify.org/ and https://pythontutor.ru/, which is how I make my living. And, separately, I enjoy studying complex hierarchical evolutionary systems like human languages or music (possibly that's a complete list).
@@ -33,12 +41,6 @@ I'm an independent researcher and I do open source research for non-commercial p
 
 I might mentor computer science students who seek to do projects on the structure of music. Although my projects are really about music, not about technologies (read this sentence five times). Message me if you need a project to work on, although don't expect anything trendy or easy: https://github.com/vpavlenko/study-music/tree/main/research
 
-### Computer Science at KS3
-
-In 2025..26 I work as a middle school teacher of CS. I design games for my students:
-
-- https://chessnawk.vercel.app/
-- https://tonematrix.vercel.app/
 
 ### Other stuff
 
