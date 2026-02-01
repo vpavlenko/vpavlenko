@@ -20,6 +20,7 @@ I make an interactive introduction textbook to harmony of different composers an
 I eagerly need to show my current state of work to people, so let's jump into a screen-sharing call.
 
 Abandoned demos:
+- https://vpavlenko.github.io/d/
 - https://vpavlenko.github.io/chiptheory/
 - https://vpavlenko.github.io/12/
 - https://vpavlenko.github.io/j/
