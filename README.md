@@ -46,3 +46,10 @@ I might mentor computer science students who seek to do projects on the structur
 ### Other stuff
 
 - https://github.com/vpavlenko/bulls-and-cows
+
+
+### Rawl colors
+
+```js
+const colors = ["#ffffff", "#820000", "#ff0000", "#007000", "#00fb47", "#9500b3", "#ea7eff", "#787878", "#0000ff", "#03b9d5", "#ff7328", "#ffff00"];
+```
