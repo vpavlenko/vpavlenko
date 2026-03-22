@@ -4,6 +4,10 @@ In 2025..26 I work as a middle school teacher of CS. I design tasks for my stude
 
 - https://chessnawk.vercel.app/
 
+I create bite-size programming tasks so that teachers can teach algorithmic thinking as early as with 10yo students. In fact, some of it is possible with 7yo students. I talk about "repeat N times" loop, nested loops, conditions (if, and/or), variables and while loop.
+
+I teach in JavaScript because I believe that school teaching should deeply integrate a conversation about modern interfaces, event handlers, data <-> UI etc. I don't believe that teaching it in Python is optimal. Yes, Python is better as a language. But pygame/tkinter is worse as a way of showcasing interfaces. 
+
 ### Music theory
 
 I study the structure of music and I make it easier to digest. I care about the order of notes (pitches) in compositions. I wonder which structures are there, and how correlations of those structures define styles. I don't care about rhythms or timbres/sound.
