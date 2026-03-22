@@ -1,4 +1,4 @@
-### Computer Science at KS3
+### Computer Science in middle school
 
 In 2025..26 I work as a middle school teacher of CS. I design tasks for my students:
 
