@@ -4,7 +4,7 @@ In 2025..26 I work as a middle school teacher of CS. I design tasks for my stude
 
 - https://chessnawk.vercel.app/
 
-I create bite-size programming tasks so that teachers can teach algorithmic thinking as early as with 10yo students. In fact, some of it is possible with 7yo students. I talk about "repeat N times" loop, nested loops, conditions (if, and/or), variables and while loop.
+I create bite-size programming tasks so that teachers can teach algorithmic thinking as early as to 10yo students. In fact, some of it is possible with 7yo students. I talk about "repeat N times" loop, nested loops, conditions (if, and/or), variables and while loop.
 
 I teach JavaScript because I believe that school teaching should deeply integrate a conversation about modern interfaces, event handlers, data <-> UI, network requests, UI debugging etc. 
 
