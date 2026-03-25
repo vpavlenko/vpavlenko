@@ -8,7 +8,7 @@ I create bite-size programming tasks so that teachers can teach algorithmic thin
 
 I teach JavaScript because I believe that school teaching should deeply integrate a conversation about modern interfaces, event handlers, data <-> UI, network requests, UI debugging etc. 
 
-I don't believe that teaching it in Python is optimal. Yes, Python is cleaner as a language. But pygame/tkinter is worse as a way of showcasing interfaces. 
+I don't believe that teaching it in Python is optimal. Yes, Python is cleaner as a language. But pygame/tkinter is worse as a way of showcasing interfaces and modern debugging. 
 
 I'm committed to support both languages for as long as needed until all teachers migrate :)
 
