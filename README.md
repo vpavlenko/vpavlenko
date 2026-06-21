@@ -55,6 +55,7 @@ I might mentor computer science students who seek to do projects on the structur
 ### Other stuff
 
 - https://github.com/vpavlenko/bulls-and-cows
+- https://xitsonga.vercel.app/
 
 
 ### Rawl colors
