@@ -1,3 +1,7 @@
+### Learning languages
+
+Right now I learn Xitsonga by reading the bilingual corpus of 170k sentences: xitsonga.vercel.app. I annotate it to preserve my understanding of the structure and track my progress.
+
 ### Computer Science in middle school
 
 In 2025..26 I work as a middle school teacher of CS. I design tasks for my students:
