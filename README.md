@@ -19,7 +19,7 @@ I teach JavaScript because I believe that school teaching should deeply integrat
 
 I don't believe that teaching it in Python is optimal. Yes, Python is cleaner as a language. But pygame/tkinter is worse as a way of showcasing interfaces and modern debugging. 
 
-I'm committed to support both languages for as long as needed until all teachers migrate :)
+Ideally, I need to support both languages for as long as needed until most teachers migrate :)
 
 
 ### Music theory
