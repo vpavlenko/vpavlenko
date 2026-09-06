@@ -5,6 +5,8 @@ Right now I learn Xitsonga by reading the bilingual corpus of 170k sentences:
 
 I annotate it to preserve my understanding of the structure and track my progress.
 
+Also, I design a course on Strategic Games for Grade 7 kids. It's about winning/losing positions, game tree, Bachet and Kayles. Contact me to get the materials and support, since I have not time yet to publish them properly.
+
 ### Computer Science in middle school
 
 In 2025..26 I work as a middle school teacher of CS. I design tasks for my students:
