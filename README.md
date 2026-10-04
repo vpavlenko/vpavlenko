@@ -1,7 +1,9 @@
 ### Learning languages
 
-Right now I learn Xitsonga by reading the bilingual corpus of 170k sentences: 
+I learned Xitsonga by reading the bilingual corpus of 170k sentences: 
 - https://xitsonga.vercel.app/
+
+(I've read 10% of it.)
 
 I annotate it to preserve my understanding of the structure and track my progress.
 
