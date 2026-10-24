@@ -1,3 +1,10 @@
+### Repair foundations of maths
+
+I design this app to help Grade 7 students in Limpopo to understand foundations of arithmetics:
+
+- https://kentron.pages.dev/
+
+
 ### Learning languages
 
 I learned Xitsonga by reading the bilingual corpus of 170k sentences: 
@@ -39,7 +46,8 @@ I make an interactive introduction textbook to harmony of different composers an
 
 I eagerly need to show my current state of work to people, so let's jump into a screen-sharing call.
 
-Abandoned demos:
+Some demos:
+- https://caplin.cxielamiko.chatgpt.site/
 - https://vpavlenko.github.io/d/
 - https://vpavlenko.github.io/chiptheory/
 - https://vpavlenko.github.io/12/
