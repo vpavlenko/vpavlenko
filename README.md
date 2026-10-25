@@ -19,7 +19,7 @@ I annotate it to preserve my understanding of the structure and track my progres
 
 ### Computer Science in middle school
 
-In 2025..26 I work as a middle school teacher of CS. I design tasks for my students:
+In 2025..26 I worked as a middle school teacher of CS. I design tasks for my students:
 
 - https://chessnawk.vercel.app/
 
