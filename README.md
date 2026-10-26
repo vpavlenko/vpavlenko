@@ -3,6 +3,7 @@
 I design this app to help Grade 7 students in Limpopo to understand foundations of arithmetics:
 
 - https://kentron.pages.dev/
+- https://caps-maths-map.cxielamiko.chatgpt.site/
 
 Also, I've designed a course on Strategic Games for Grade 7 kids. It's about winning/losing positions, game tree, Bachet and Kayles. Contact me to get the materials and support, since I have not time yet to publish them properly.
 
