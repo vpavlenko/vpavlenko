@@ -7,6 +7,9 @@ I design this app to help Grade 7 students in Limpopo to understand foundations 
 
 Also, I've designed a course on Strategic Games for Grade 7 kids. It's about winning/losing positions, game tree, Bachet and Kayles. Contact me to get the materials and support, since I have not time yet to publish them properly.
 
+Other vibe-coding demos of the past:
+- https://vector-lab.cxielamiko.chatgpt.site/
+- https://springroll-podcast.pages.dev/
 
 ### Learning languages
 
