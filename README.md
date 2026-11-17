@@ -54,6 +54,7 @@ I eagerly need to show my current state of work to people, so let's jump into a 
 
 Some demos:
 - https://caplin.cxielamiko.chatgpt.site/
+  - https://mortensen-improvisation.cxielamiko.chatgpt.site/
 - https://insights-roadmaps.cxielamiko.chatgpt.site/
 - https://vpavlenko.github.io/d/
 - https://vpavlenko.github.io/chiptheory/
