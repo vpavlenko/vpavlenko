@@ -56,9 +56,10 @@ Some demos:
 - https://caplin.cxielamiko.chatgpt.site/
   - https://mortensen-improvisation.cxielamiko.chatgpt.site/
 - https://insights-roadmaps.cxielamiko.chatgpt.site/
+- https://music-papers.cxielamiko.chatgpt.site/
+- https://vpavlenko.github.io/12/
 - https://vpavlenko.github.io/d/
 - https://vpavlenko.github.io/chiptheory/
-- https://vpavlenko.github.io/12/
 - https://vpavlenko.github.io/j/
 - https://vpavlenko.github.io/p/ and https://vpavlenko.github.io/p2/ (the last one won't work because of Audio Context protection)
 
